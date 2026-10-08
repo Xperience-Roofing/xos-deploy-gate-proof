@@ -1,0 +1,1 @@
+{ "name": "xos-deploy-gate-proof", "private": true, "scripts": { "build": "node build.mjs" } }
